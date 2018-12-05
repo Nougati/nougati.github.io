@@ -4,4 +4,5 @@
 
 layout: home
 ---
-Hi?
+
+This is just a test. I have nothing interesting on this site. Feel free to hang out if you want for some reason, I don't mind.
