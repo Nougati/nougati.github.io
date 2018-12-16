@@ -3,17 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+My name's Nelson and this is my first attempt at using Jekyll. Because it's my
+ first time really approaching this stuff, I'm going to keep these links on this
+ page.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-Hello?! Is there anybody out there?
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+ - [Documentation here](https://jekyllrb.com/)
+ - [Minima source code](https://github.com/jekyll/minima)
+ - [jekyll's github][jekyll-organization]
+ - [jekyll](https://github.com/jekyll/jekyll)
 
 
 [jekyll-organization]: https://github.com/jekyll
