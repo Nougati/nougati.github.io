@@ -3,8 +3,8 @@ layout: post
 title:  "Hey!"
 ---
 
-Let's see what we can do. Attempt #5
+Let's see what we can do. Attempt #6
 
-![Shoes](/assets/dirtyshoes.jpg)
+![Shoes](/assets/dirty_shoes.jpg)
 
 
